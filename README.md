@@ -3,19 +3,19 @@
 
 💻 My interests span a range of exciting domains, including:
 
-🐍 Python Programming
-🌐 Web Development
-📊 Data Science
-🧠 Problem Solving
+$$ 🐍 Python Programming $$
+$$ 🌐 Web Development $$
+$$ 📊 Data Science $$
+$$ 🧠 Problem Solving $$
 📈 As a Data Science enthusiast, I find joy in:
 
 🐍 Python Programming
-📊 Data Visualization
+$$ 📊 Data Visualization $$
 📚 Currently, I'm pursuing my second year in BTech Computer Science with a specialization in Data Science, equipping me with a strong foundation in:
 
-📈 Statistics
-💻 Programming (Python)
-📊 Data Manipulation
+$$ 📈 Statistics $$
+$$ 💻 Programming (Python) $$
+$$ 📊 Data Manipulation $$
 💡 With deep knowledge in GUI development using Python, I create user-friendly and interactive applications.
 
 🚀 Furthermore, I'm actively learning Full Stack Web Development to complement my skill set and broaden my horizons.

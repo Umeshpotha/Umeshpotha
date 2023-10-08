@@ -1,5 +1,5 @@
 ### Hi there 👋
-###👋 Hello! I'm Umesh, a passionate tech enthusiast on a journey to explore the digital world.
+### 👋 Hello! I'm Umesh, a passionate tech enthusiast on a journey to explore the digital world.
 
 💻 My interests span a range of exciting domains, including:
 

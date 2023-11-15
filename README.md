@@ -10,7 +10,7 @@
     <br>
     <li>I am very much Interested in  learning The Statistics behind ML</li>
     <br>
-    <li>And looking forward Dive deeper into the Tech world</li>
+    <li>And looking forward to Dive deeper into the Tech world</li>
     </ul>    
 </h5>
 

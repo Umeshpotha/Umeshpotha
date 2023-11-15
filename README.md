@@ -31,15 +31,15 @@
 
 <h3>Skills and Languages</h3>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" alt="Python Programming" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" alt="Java Programming" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="Seaborn" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikitlearn" width="70" height="40" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/150px-The_C_Programming_Language_logo.svg.png" alt="C Programming" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/195px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/182px-PHP-logo.svg.png" alt="PHP" width="50" height="50" style="margin-right: 10px;">
-  <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" alt="MYSQL" width="40" height="40" style="margin-right: 10px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" alt="Python Programming" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" alt="Java Programming" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="Seaborn" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikitlearn" width="70" height="40" style="margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/150px-The_C_Programming_Language_logo.svg.png" alt="C Programming" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/195px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/182px-PHP-logo.svg.png" alt="PHP" width="50" height="50" style="margin-right: 20px;">
+  <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" alt="MYSQL" width="40" height="40" style="margin-right: 20px;">
 
 </div>

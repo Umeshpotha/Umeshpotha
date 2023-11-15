@@ -1,5 +1,12 @@
 ### Hi there 👋
-### 👋 Hello! I'm Umesh, a passionate tech enthusiast on a journey to explore the digital world.
+### 
+<h1 align='center'>
+👋 Hello! I'm Umesh 
+</h1>
+a passionate tech enthusiast on a journey to explore the digital world.
+
+
+
 
 💻 My interests span a range of exciting domains, including:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="50" height="50">

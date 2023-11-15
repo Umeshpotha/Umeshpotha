@@ -1,10 +1,8 @@
-### Hi there 👋
-### 
 <h1 align='center'>
 👋 Hello! I'm Umesh 
 </h1>
 a passionate tech enthusiast on a journey to explore the digital world.
-
+</br>
 
 
 

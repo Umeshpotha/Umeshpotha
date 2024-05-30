@@ -1,6 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
-
 [Click here to view the Typewriter Effect](https://umeshpotha.github.io/Umeshpotha/typewriter.html)
 
 

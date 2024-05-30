@@ -1,6 +1,8 @@
 # 💫 About Me:
+# 💫 About Me:
 
-    👋 Hello, I'm Umesh, a Passionate tech Enthusiast from India.I am actively looking for Internships Across India.My interests are in Data Science, ML, GENAI, LLMs.
+[Click here to view the Typewriter Effect](https://umeshpotha.github.io/Umeshpotha/typewriter.html)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umesh_potha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umesh-potha-8b93bb254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@umeshpotha123) 

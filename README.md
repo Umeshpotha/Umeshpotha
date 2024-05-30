@@ -3,23 +3,6 @@
 <div id="about-me">
     <p><span id="typewriter-text">👋 Hello, I'm Umesh, a Passionate tech Enthusiast from India.<br>I am actively looking for Internships Across India.<br>My interests are in Data Science, ML, GENAI, LLMs.</span></p>
 </div>
-
-<!-- JavaScript for Typewriter Effect -->
-<script>
-    const text = "👋 Hello, I'm Umesh, a Passionate tech Enthusiast from India. I am actively looking for Internships Across India. My interests are in Data Science, ML, GENAI, LLMs";
-    let index = 0;
-
-    function type() {
-        document.getElementById('typewriter-text').innerHTML += text[index];
-        index++;
-        if (index >= text.length) {
-            index = 0;
-        }
-        setTimeout(type, 100); // Adjust typing speed here (in milliseconds)
-    }
-
-    type(); // Start the typing animation
-</script>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umesh_potha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umesh-potha-8b93bb254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@umeshpotha123) 
 

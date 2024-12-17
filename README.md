@@ -1,6 +1,5 @@
 
-# 👋  Hello I'm Umesh  a Passionate tech Enthusiast from India<br>🔭
-# I am  actively looking for Internships Across India<br>My interests are in Data Science, ML, GENAI, LLMs
+# 👋  Hello I'm Umesh  a Passionate tech Enthusiast <br>
 
 
 ## 🌐 Socials:

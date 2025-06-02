@@ -43,10 +43,10 @@
 
 ### 📫 Connect with me
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/umesh-potha-8b93bb254/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:[umeshpotha123@gmail.com]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="30" /></a>
 </p>
--->
+
 
 ---

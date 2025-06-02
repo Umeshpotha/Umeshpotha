@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web,Android,AI,Cloud**
 - 📫 How to reach me: **umeshpotha123@gmail.com**
-- ⚡ Fun fact: **I'm convinced that computers understand sarcasm, they just choose to ignore it most of the time.**
 
 ---
 
